@@ -1,5 +1,4 @@
 <?php
-
     // $password = 'Boolean';
 
     $password = $_GET['password'];
